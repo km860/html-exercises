@@ -76,7 +76,7 @@
             <br />
             <label>Last Name <input type="text" name="last-name" /></label>
             <br />
-            <label>Address <input type="text" name="address" /></label>
+            <label>Address <input type="text" name="address" maxlength="50" required /></label>
             <br />
             <label>Zip Code <input type="text" name="zip" /></label>
             <br />
@@ -85,8 +85,19 @@
             <label>Phone number <input type="text" name="phone" /></label>
             <br />
             <label>Email address <input type="text" name="email" /></label>
-
+			<br />
+            <p>delivery options: </p>
+            <input type="radio" id="standard" name="delivery" value="Standard" checked />
+            <label for="standard">Standard</label>
+			<input type="radio" id="express" name="delivery" value="Express" />
+			<label for="express">Express</label>
+			<input type="radio" id="home-delivery" name="delivery" value="Home Delivery" />
+			<label for="home-delivery">Home Delivery</label>
+			<br />
+			<button type="submit">Submit</button>
         </form>
+		<br />
+		<p>här det ska stå &lt;div&gt; &lt;/div&gt;</p>
     </body>
 
 </html>
