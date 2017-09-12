@@ -1,0 +1,20 @@
+1. What does HTML stand for?
+  A- HyperText Markup Language
+2. What sort of file does a web browser expect?
+  A- It expects a .html file
+3. What is the difference between a block and an inline element?
+  A- Block elements starts on a new line/takes up a line.
+4. Which three things do an HTML element consist of?
+  A- It consists of an opening tag, content and closing tag.
+5. Why should we use a DTD (Document Type Declaration) in our HTML documents?
+  A- 
+6. What is the basic structure of an HTML document?
+7. What is a void element?
+8. How do we set the character encoding of a page?
+9. What does the <head> element contain?
+10. What does the <body> element contain?
+11. What sort of list should we use if we want the items to be numbered?
+12. What are forms used for?
+13. What are the elements within a form called?
+14. Where are attributes placed?
+15. What is the purpose of attributes?
